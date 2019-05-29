@@ -1,5 +1,5 @@
 # hi-speed-flash-parser
-A bash script for parsing flash games from www.hi-speed.co.uk
+A bash script for parsing flash games from www.hi-speed.us
 
 ## Dependencies:
 `xidel`
